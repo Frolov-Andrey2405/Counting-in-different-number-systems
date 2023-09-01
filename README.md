@@ -25,6 +25,29 @@ In fact, any number can be represented in any number system, and a program outpu
 4. Follow the on-screen prompts to specify the range of numbers to convert.
 5. Observe the conversions and learn about different number systems.
 
+## Sample Output
+
+```
+Counting in different number systems
+
+This program shows you equivalent numbers in decimal (base 10),
+hexadecimal (base 16), and binary (base 2) numeral systems.    
+
+(Ctrl-C to quit.)
+Enter the starting number (e.g. 0) > 0
+Enter how many numbers to display (e.g. 1000) > 10
+DEC: 0   HEX: 0   BIN: 0
+DEC: 1   HEX: 1   BIN: 1
+DEC: 2   HEX: 2   BIN: 10
+DEC: 3   HEX: 3   BIN: 11
+DEC: 4   HEX: 4   BIN: 100
+DEC: 5   HEX: 5   BIN: 101
+DEC: 6   HEX: 6   BIN: 110
+DEC: 7   HEX: 7   BIN: 111
+DEC: 8   HEX: 8   BIN: 1000
+DEC: 9   HEX: 9   BIN: 1001
+```
+
 ## Note
 
 The Number System Converter offers a hands-on experience in understanding how numbers can be represented in various number systems. Explore the relationships between decimal, binary, and hexadecimal representations and broaden your mathematical horizons.
